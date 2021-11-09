@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).exe
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).deps.json
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).runtimeconfig.json
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).dll
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\bin\Debug\netcoreapp3.1\task-1-calculator (простой).pdb
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).AssemblyInfo.cs
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).dll
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).pdb
+C:\Users\облепиха\source\repos\task-1-calculator (простой)\obj\Debug\netcoreapp3.1\task-1-calculator (простой).genruntimeconfig.cache
