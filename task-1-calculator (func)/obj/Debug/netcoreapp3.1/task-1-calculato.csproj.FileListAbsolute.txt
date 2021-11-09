@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.exe
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.deps.json
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.runtimeconfig.json
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.dll
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\bin\Debug\netcoreapp3.1\task-1-calculato.pdb
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.AssemblyInfo.cs
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.dll
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.pdb
+C:\Users\облепиха\source\repos\coding-tasks\task-1-calculato\obj\Debug\netcoreapp3.1\task-1-calculato.genruntimeconfig.cache
